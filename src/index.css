@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.componentSection h1{
+  text-align: left;
+}
+.componentSection{
+  padding:10px;
+  margin:10px;
+  text-align: left;
+}
+
+.dataItem{
+  padding:5px;
+  margin:5px;
+}
